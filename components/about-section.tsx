@@ -207,7 +207,7 @@ export function AboutSection() {
                   Our Impact
                 </h3>
                 <p className="text-sm sm:text-base text-muted-foreground leading-relaxed group-hover:text-foreground/90 transition-colors duration-300">
-                  Through workshops, advocacy campaigns, and community outreach, we've reached thousands of individuals,
+                  Through workshops, advocacy campaigns, and community outreach, we aim to reach thousands of individuals,
                   providing them with the knowledge and tools needed to understand and exercise their rights.
                 </p>
                 {/* Animated underline */}
@@ -340,7 +340,7 @@ export function AboutSection() {
                         <p className="text-muted-foreground leading-relaxed group-hover:text-foreground/90 transition-colors duration-300">
                           Lady Justice Initiative was born from a group of passionate students who recognized the urgent
                           need for accessible legal education and gender equality advocacy. What started as informal
-                          discussions about justice and rights has grown into a comprehensive organization that serves
+                          discussions about justice and rights is growing into a comprehensive organization that aims to serve
                           communities across regions.
                         </p>
                       </div>
@@ -379,7 +379,7 @@ export function AboutSection() {
                           The Impact Today
                         </h4>
                         <p className="text-muted-foreground leading-relaxed group-hover:text-foreground/90 transition-colors duration-300">
-                          Today, we continue to grow our impact through innovative programs, strategic partnerships, and
+                          Today, we are building towards growing our impact through innovative programs, strategic partnerships, and
                           the unwavering dedication of our student volunteers who believe in creating a more just and
                           equitable world for all.
                         </p>

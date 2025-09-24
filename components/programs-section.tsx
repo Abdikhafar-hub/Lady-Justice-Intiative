@@ -21,7 +21,7 @@ const programs = [
       "Community awareness campaigns",
       "Workplace equality initiatives",
     ],
-    impact: "500+ individuals supported",
+    impact: "500+ individuals we aim to support",
     duration: "Ongoing",
     location: "Multiple regions",
   },
@@ -38,7 +38,7 @@ const programs = [
       "Legal aid referral services",
       "Community legal clinics",
     ],
-    impact: "2,000+ participants trained",
+    impact: "2,000+ participants we plan to train",
     duration: "Monthly workshops",
     location: "Universities & Communities",
   },
@@ -55,7 +55,7 @@ const programs = [
       "Healthcare access support",
       "Policy advocacy initiatives",
     ],
-    impact: "1,500+ individuals reached",
+    impact: "1,500+ individuals we aim to reach",
     duration: "Quarterly programs",
     location: "Schools & Health Centers",
   },
@@ -72,7 +72,7 @@ const programs = [
       "Skill development workshops",
       "Networking events",
     ],
-    impact: "800+ women empowered",
+    impact: "800+ women we aim to empower",
     duration: "Bi-annual cohorts",
     location: "Regional centers",
   },
@@ -102,7 +102,7 @@ export function ProgramsSection() {
             Our Programs & Initiatives
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Comprehensive programs designed to create lasting change through education, advocacy, and empowerment.
+            Comprehensive programs we are building to create lasting change through education, advocacy, and empowerment.
           </p>
         </div>
 
@@ -234,7 +234,7 @@ export function ProgramsSection() {
             <CardContent className="p-6 sm:p-8 lg:p-12">
               <h3 className="text-xl sm:text-2xl lg:text-3xl font-bold mb-3 sm:mb-4 font-serif">Ready to Make a Difference?</h3>
               <p className="text-sm sm:text-base lg:text-lg text-primary-foreground/90 mb-4 sm:mb-6 max-w-2xl mx-auto">
-                Join our programs and become part of a movement that's creating real change in communities. Whether you
+                Join our programs and become part of a movement that aims to create real change in communities. Whether you
                 want to learn, volunteer, or lead, there's a place for you.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">

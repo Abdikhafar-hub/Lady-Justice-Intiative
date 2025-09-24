@@ -10,7 +10,7 @@ const heroSlides = [
     title: "Empowering Women, Shaping Justice",
     subtitle: "Building a world where every woman has equal rights and opportunities",
     description:
-      "Join our student-led movement promoting gender equality, legal literacy, and women's empowerment across communities.",
+      "Join our student-led movement that aims to promote gender equality, legal literacy, and women's empowerment across communities.",
     icon: Scale,
     image: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758701310/Image_fx_16_iihxr9.png",
   },
@@ -18,7 +18,7 @@ const heroSlides = [
     title: "Legal Literacy for All",
     subtitle: "Knowledge is power, education is liberation",
     description:
-      "We provide accessible legal education and rights awareness programs to empower individuals with the knowledge they need.",
+      "We aim to provide accessible legal education and rights awareness programs to empower individuals with the knowledge they need.",
     icon: BookOpen,
     image: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758701650/Image_fx_17_q5rsjj.png",
   },
@@ -26,7 +26,7 @@ const heroSlides = [
     title: "Sexual & Reproductive Health Rights",
     subtitle: "Advocating for comprehensive health education and rights",
     description:
-      "Promoting awareness and access to sexual and reproductive health information and services for all individuals.",
+      "We aim to promote awareness and access to sexual and reproductive health information and services for all individuals.",
     icon: Heart,
     image: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758701770/Image_fx_18_reyx0d.png",
   },

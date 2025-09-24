@@ -36,7 +36,7 @@ const teamMembers = [
   {
     name: "Tinah Nyaga",
     role: "Secretary",
-    bio: "Human rights law student dedicated to making legal education accessible. Designs and implements our community-based legal literacy programs.",
+    bio: "Human rights law student dedicated to making legal education accessible. Will design and implement our community-based legal literacy programs.",
     image: "/placeholder.svg?height=300&width=300&text=MS",
     expertise: ["Human Rights Law", "Community Education", "Legal Training"],
     education: "Jomo Kenyatta University of Agriculture and Technology",
@@ -49,7 +49,7 @@ const teamMembers = [
   {
     name: "Ikra Adow",
     role: "Public Relations Officer",
-    bio: "Women's rights advocate. Develops leadership programs that have empowered hundreds of women across Kenya.",
+    bio: "Women's rights advocate. Will develop leadership programs that aim to empower hundreds of women across Kenya.",
     image: "/placeholder.svg?height=300&width=300&text=PP",
     expertise: ["Leadership Development", "Entrepreneurship", "Mentorship"],
     education: "Jomo Kenyatta University of Agriculture and Technology",
@@ -81,7 +81,7 @@ export function TeamSection() {
         >
           <h2 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-foreground mb-4 sm:mb-6">Meet Our Team</h2>
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Passionate advocates, experienced professionals, and dedicated students working together to create a more
+            Passionate advocates, experienced professionals, and dedicated students working together to build a more
             just and equitable world.
           </p>
         </div>

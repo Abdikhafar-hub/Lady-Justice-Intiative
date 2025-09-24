@@ -60,7 +60,7 @@ export function Footer() {
             <CardContent className="p-6 sm:p-8 text-center">
               <h3 className="text-xl sm:text-2xl font-bold mb-3 sm:mb-4 font-serif">Stay Connected</h3>
               <p className="text-sm sm:text-base text-accent-foreground/90 mb-4 sm:mb-6 max-w-2xl mx-auto">
-                Subscribe to our newsletter for updates on programs, events, and opportunities to create change in your
+                Subscribe to our newsletter for updates on programs, events, and opportunities to help create change in your
                 community.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 max-w-md mx-auto">
@@ -107,7 +107,7 @@ export function Footer() {
               </div>
               <p className="text-xs sm:text-sm text-primary-foreground/80 mb-4 sm:mb-6 leading-relaxed">
                 Empowering communities through legal literacy, gender equality advocacy, and comprehensive rights
-                education. Together, we're building a more just and equitable world.
+                education. Together, we aim to build a more just and equitable world.
               </p>
               <div className="space-y-1.5 sm:space-y-2 text-xs sm:text-sm">
                 <div className="flex items-center gap-2">

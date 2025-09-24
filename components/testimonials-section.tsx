@@ -15,7 +15,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     image: "/placeholder.svg?height=80&width=80&text=SJ",
     quote:
-      "Lady Justice Initiative opened my eyes to my rights as a woman. The legal literacy workshop I attended gave me the confidence to speak up against discrimination in my workplace. I'm now an advocate in my community.",
+      "Lady Justice Initiative will open my eyes to my rights as a woman. The legal literacy workshop I hope to attend will give me the confidence to speak up against discrimination in my workplace. I dream of becoming an advocate in my community.",
     rating: 5,
     program: "Legal Literacy Program",
   },
@@ -26,7 +26,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     image: "/placeholder.svg?height=80&width=80&text=AH",
     quote:
-      "lady justice initiative helped me understand my rights as a woman and how to fight for them.",
+      "lady justice initiative will help me understand my rights as a woman and how to fight for them.",
     rating: 5,
     program: "SRHR Advocacy",
   },
@@ -37,7 +37,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     image: "/placeholder.svg?height=80&width=80&text=FZ",
     quote:
-      "The mentorship I received through Lady Justice Initiative was invaluable. It connected me with experienced lawyers and helped me understand how to use my legal education to serve marginalized communities.",
+      "The mentorship I hope to receive through Lady Justice Initiative will be invaluable. It will connect me with experienced lawyers and help me understand how to use my legal education to serve marginalized communities.",
     rating: 5,
     program: "Gender Justice Advocacy",
   },
@@ -48,7 +48,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     image: "/placeholder.svg?height=80&width=80&text=PS",
     quote:
-      "The training I received on legal literacy has enabled me to help countless women in my community understand their rights. The ripple effect of this knowledge is transforming entire families.",
+      "The training I hope to receive on legal literacy will enable me to help countless women in my community understand their rights. The ripple effect of this knowledge will transform entire families.",
     rating: 5,
     program: "Legal Literacy Program",
   },
@@ -59,7 +59,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     image: "/placeholder.svg?height=80&width=80&text=GO",
     quote:
-      "Lady Justice Initiative didn't just teach me about my rights—they showed me how to fight for them. I now run a successful business and mentor other women entrepreneurs in my region.",
+      "Lady Justice Initiative won't just teach me about my rights—they will show me how to fight for them. I dream of running a successful business and mentoring other women entrepreneurs in my region.",
     rating: 5,
     program: "Women's Empowerment",
   },
@@ -79,10 +79,9 @@ export function TestimonialsSection() {
             headerVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-foreground mb-4 sm:mb-6">Voices of Change</h2>
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-foreground mb-4 sm:mb-6">Voices We Hope to Hear</h2>
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Hear from the incredible individuals whose lives have been transformed through our programs and who are now
-            creating change in their communities.
+            These are the kinds of stories we dream of hearing from individuals whose lives we hope to transform through our programs and who will create change in their communities.
           </p>
         </div>
 

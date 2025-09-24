@@ -9,8 +9,8 @@ const stats = [
     icon: Users,
     value: 5000,
     suffix: "+",
-    label: "Lives Impacted",
-    description: "Individuals reached through our programs and initiatives",
+    label: "Lives We Wish to Impact",
+    description: "Individuals we aim to reach through our programs and initiatives",
     color: "from-purple-500 to-blue-600",
     bgColor: "bg-gradient-to-br from-purple-50 to-blue-50",
   },
@@ -18,8 +18,8 @@ const stats = [
     icon: BookOpen,
     value: 150,
     suffix: "+",
-    label: "Workshops Conducted",
-    description: "Educational sessions on legal literacy and rights awareness",
+    label: "Workshops We Plan to Conduct",
+    description: "Educational sessions on legal literacy and rights awareness we aim to deliver",
     color: "from-blue-500 to-indigo-600",
     bgColor: "bg-gradient-to-br from-blue-50 to-indigo-50",
   },
@@ -27,8 +27,8 @@ const stats = [
     icon: MapPin,
     value: 25,
     suffix: "+",
-    label: "Communities Served",
-    description: "Regions where we've established active programs",
+    label: "Communities We Aim to Reach",
+    description: "Regions where we plan to establish active programs",
     color: "from-indigo-500 to-purple-600",
     bgColor: "bg-gradient-to-br from-indigo-50 to-purple-50",
   },
@@ -36,8 +36,8 @@ const stats = [
     icon: Award,
     value: 12,
     suffix: "",
-    label: "Recognition Awards",
-    description: "Honors received for our advocacy and community work",
+    label: "Recognition We Aspire To",
+    description: "Honors we hope to receive for our advocacy and community work",
     color: "from-amber-500 to-orange-600",
     bgColor: "bg-gradient-to-br from-amber-50 to-orange-50",
   },
@@ -45,8 +45,8 @@ const stats = [
     icon: TrendingUp,
     value: 85,
     suffix: "%",
-    label: "Success Rate",
-    description: "Participants reporting increased legal knowledge",
+    label: "Success Rate We Target",
+    description: "Percentage of participants we aim to help gain increased legal knowledge",
     color: "from-green-500 to-emerald-600",
     bgColor: "bg-gradient-to-br from-green-50 to-emerald-50",
   },
@@ -54,8 +54,8 @@ const stats = [
     icon: Heart,
     value: 200,
     suffix: "+",
-    label: "Active Volunteers",
-    description: "Dedicated students and professionals supporting our mission",
+    label: "Volunteers We Seek",
+    description: "Dedicated students and professionals we hope will support our mission",
     color: "from-pink-500 to-rose-600",
     bgColor: "bg-gradient-to-br from-pink-50 to-rose-50",
   },
@@ -139,8 +139,7 @@ export function ImpactSection() {
             <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-20 sm:w-24 h-1 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full animate-pulse"></div>
           </div>
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed mt-6 sm:mt-8">
-            Measuring success through the lives we've touched, communities we've empowered, and positive change we've
-            created together.
+            Building towards success through the lives we wish to touch, communities we aim to empower, and positive change we dream of creating together.
           </p>
         </div>
 
