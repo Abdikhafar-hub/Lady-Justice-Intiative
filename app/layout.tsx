@@ -20,7 +20,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Lady Justice Initiative - Empowering Women, Shaping Justice",
+  title: "Lady Justice Initiative",
   description:
     "A student-led organization promoting gender equality, women's empowerment, legal literacy, rights awareness, and Sexual & Reproductive Health and Rights (SRHR).",
   generator: "v0.app",
@@ -34,11 +34,24 @@ export const metadata: Metadata = {
     "advocacy",
   ],
   authors: [{ name: "Lady Justice Initiative" }],
+  icons: {
+    icon: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758706743/istockphoto-1140705087-170667a_fx7mpq.jpg",
+    shortcut: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758706743/istockphoto-1140705087-170667a_fx7mpq.jpg",
+    apple: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758706743/istockphoto-1140705087-170667a_fx7mpq.jpg",
+  },
   openGraph: {
     title: "Lady Justice Initiative - Empowering Women, Shaping Justice",
     description:
       "A student-led organization promoting gender equality, women's empowerment, legal literacy, rights awareness, and SRHR.",
     type: "website",
+    images: [
+      {
+        url: "https://res.cloudinary.com/ddkkfumkl/image/upload/v1758706743/istockphoto-1140705087-170667a_fx7mpq.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Lady Justice Initiative - Lady Justice Statue",
+      },
+    ],
   },
 }
 
